@@ -49,7 +49,7 @@ This Alpha build has been encrypted using V8 Bytecode to protect core protocol l
 
 ## 📋 License
 
-This Alpha version is released under a **limited non-commercial evaluation license**. Please read the full terms in [`LICENSE_EN.txt`](./LICENSE_EN.txt)/[`LICENSE_ID.txt`](./LICENSE_ID.txt) before use.
+This Alpha version is released under a **limited non-commercial evaluation license**. Please read the full terms in [`LICENSE_EN.txt`](./LICENSE-EN.txt)/[`LICENSE_ID.txt`](./LICENSE-ID.txt) before use.
 
 ---
 
