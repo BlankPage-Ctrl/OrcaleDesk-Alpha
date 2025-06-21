@@ -1,0 +1,97 @@
+PERJANJIAN LISENSI PERANGKAT LUNAK  
+ORCALEDESK: ALPHA  
+Versi 0.1 — Terakhir diperbarui: Juni 2025  
+Hak Cipta © 2025 Wilfredo Widjadmiko. Seluruh hak dilindungi undang-undang.
+
+─────────────────────────────────────────────
+
+PERINGATAN PENTING:  
+Perjanjian ini hanya berlaku untuk versi biner (installer/build) dari OrcaleDesk: Alpha yang tersedia dalam repositori ini.  
+Kode sumber tidak disertakan dan bersifat tertutup (proprietary).
+
+Dengan mengunduh, menginstal, atau menggunakan OrcaleDesk: Alpha, Anda (selanjutnya disebut "Pengguna") dianggap telah membaca, memahami, dan menyetujui seluruh syarat dan ketentuan dalam perjanjian ini.
+
+─────────────────────────────────────────────
+
+1. PEMBERIAN LISENSI
+
+Anda diberikan hak lisensi terbatas, tidak eksklusif, tidak dapat dipindahkan, dan dapat dicabut untuk menggunakan perangkat lunak OrcaleDesk: Alpha hanya untuk:
+- Pengujian internal  
+- Evaluasi  
+- Demonstrasi non-komersial di lingkungan institusi Anda
+
+Penggunaan untuk kepentingan komersial, distribusi ulang, atau penerapan di lingkungan produksi **tidak diizinkan**.
+
+2. STATUS ALPHA
+
+Perangkat lunak ini merupakan versi awal (Alpha) dan disediakan dalam keadaan “SEBAGAIMANA ADANYA”. Versi ini dapat mengandung:
+- Fitur yang belum lengkap
+- Bug, error, atau ketidakstabilan
+- Kinerja yang belum optimal
+
+Dengan menggunakan perangkat lunak ini, Anda menyadari dan menyetujui bahwa:
+- Tidak ada jaminan kestabilan
+- Tidak cocok digunakan di lingkungan nyata/produksi
+- Developer tidak memberikan jaminan dalam bentuk apapun
+
+3. HAK KEKAYAAN INTELEKTUAL
+
+Seluruh konten, arsitektur, kode terkompilasi, desain antarmuka, dan sistem milik OrcaleDesk merupakan kekayaan intelektual milik Wilfredo Widjadmiko.
+
+Anda **tidak diperbolehkan untuk**:
+- Membongkar, membalik rekayasa (reverse engineering), mendekompilasi, atau mencoba memperoleh kode sumber
+- Mengubah, memodifikasi, atau menyebarluaskan perangkat lunak ini
+- Menghapus label hak cipta, lisensi, atau identitas pengembang
+
+4. DISTRIBUSI
+
+Pengguna **tidak diizinkan**:
+- Menyebarluaskan installer atau file build ke platform lain
+- Mengunggah ulang di website, media sosial, atau cloud pribadi
+- Menggunakan logo/nama OrcaleDesk untuk tujuan distribusi
+
+Semua distribusi ulang memerlukan izin tertulis dari pengembang.
+
+5. DATA DAN PRIVASI
+
+Perangkat lunak ini dapat memproses data melalui jaringan daring.  
+Developer **tidak bertanggung jawab** atas:
+- Kehilangan atau kerusakan data
+- Kegagalan sistem
+- Pelanggaran privasi akibat penggunaan yang tidak sesuai
+
+Uji coba **disarankan menggunakan data dummy** (bukan data sensitif).
+
+6. PENGAKHIRAN LISENSI
+
+Lisensi akan dihentikan secara otomatis jika Pengguna:
+- Melanggar ketentuan dalam perjanjian ini
+- Menggunakan perangkat lunak untuk tujuan terlarang
+- Melakukan rekayasa balik atau penyalahgunaan perangkat lunak
+
+Setelah lisensi berakhir, Pengguna wajib menghapus dan meng-uninstall seluruh salinan perangkat lunak.
+
+7. BATASAN TANGGUNG JAWAB
+
+Developer tidak bertanggung jawab atas:
+- Kerusakan langsung maupun tidak langsung
+- Gangguan sistem, kehilangan data, atau dampak operasional
+- Kerugian yang timbul akibat penggunaan perangkat lunak ini
+
+Semua risiko ditanggung oleh pengguna sepenuhnya.
+
+8. HUKUM YANG BERLAKU
+
+Perjanjian ini tunduk pada hukum yang berlaku di Negara Kesatuan Republik Indonesia.  
+Segala sengketa akan diselesaikan di wilayah hukum Indonesia.
+
+─────────────────────────────────────────────
+
+Jika Anda tidak menyetujui ketentuan ini, mohon jangan menginstal atau menggunakan OrcaleDesk: Alpha.
+
+Untuk pertanyaan, izin tertulis, atau kerja sama, silakan hubungi:
+
+
+─────────────────────────────────────────────
+
+Terima kasih telah mencoba OrcaleDesk: Alpha.
