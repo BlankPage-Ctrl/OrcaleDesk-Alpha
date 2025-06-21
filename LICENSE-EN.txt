@@ -1,0 +1,94 @@
+ORCALEDESK: ALPHA SOFTWARE LICENSE AGREEMENT  
+Version 0.1 — Last Updated: June 2025  
+Copyright © 2025 Wilfredo.W . All rights reserved.
+
+─────────────────────────────────────────────
+
+IMPORTANT NOTICE:  
+This license applies only to the compiled, binary form of OrcaleDesk: Alpha available in this repository.  
+The source code is proprietary and NOT included in this distribution.
+
+By downloading, installing, or using OrcaleDesk: Alpha, you (the “User”) agree to be bound by the following terms:
+
+─────────────────────────────────────────────
+
+1. GRANT OF LICENSE
+
+This is a limited, non-exclusive, non-transferable, and revocable license to use the OrcaleDesk: Alpha software solely for:
+- Internal evaluation
+- Testing
+- Demonstration purposes within your organization
+
+Commercial usage, production deployment, or redistribution of any kind is strictly prohibited.
+
+2. ALPHA SOFTWARE NOTICE
+
+This is a pre-release “Alpha” version of OrcaleDesk provided *as-is* for testing. It may contain:
+- Incomplete features
+- Bugs or crashes
+- Unoptimized components
+
+By using this software, you understand and accept:
+- It is not guaranteed to be stable
+- It is not ready for production use
+- It is provided **without warranty of any kind**
+
+3. OWNERSHIP AND INTELLECTUAL PROPERTY
+
+All content, architecture, compiled code, protocols, designs, and materials related to OrcaleDesk are and shall remain the sole property of Wilfredo Widjadmiko.
+
+No portion of this software may be copied, reverse-engineered, decompiled, disassembled, modified, or distributed in any form, including but not limited to:
+- Extracting V8 Bytecode
+- Attempting to derive the original source code
+- Wrapping or embedding the binary into other software
+- Publishing alternative or derivative builds
+
+4. DISTRIBUTION AND REDISTRIBUTION
+
+Redistribution of the installer file, partial components, screenshots, or any content from this repository is **not allowed** without prior written permission from the developer.
+
+You may not upload, mirror, or host OrcaleDesk builds elsewhere, including software marketplaces, educational portals, or cloud drives.
+
+5. DATA AND PRIVACY DISCLAIMER
+
+This software may interface with online services and process user-entered data in real time.  
+The developer **does not take responsibility** for:
+- Any loss of data
+- Data corruption
+- Privacy breaches caused by improper usage
+
+All testing must be conducted using non-sensitive or dummy data unless authorized.
+
+6. TERMINATION
+
+This license is automatically terminated if the user:
+- Violates any terms in this Agreement
+- Attempts to modify, reverse engineer, or misuse the software
+- Uses OrcaleDesk: Alpha for commercial, public, or production environments
+
+Upon termination, you must uninstall and delete all copies of the software.
+
+7. LIMITATION OF LIABILITY
+
+In no event shall the developer be liable for:
+- Any direct, indirect, incidental, or consequential damages
+- Data loss or corruption
+- Business disruption
+- Damages arising from the inability to use the software
+
+Use of OrcaleDesk: Alpha is at your own risk.
+
+8. LEGAL JURISDICTION
+
+This agreement shall be governed in accordance with the laws of the Republic of Indonesia.  
+Any dispute arising from the use of this software shall be settled within the jurisdiction of Indonesian law.
+
+─────────────────────────────────────────────
+
+If you do not agree to these terms, DO NOT download, install, or use OrcaleDesk: Alpha.
+
+For licensing inquiries or written permission, please contact:
+
+─────────────────────────────────────────────
+
+Thank you for evaluating OrcaleDesk: Alpha.
