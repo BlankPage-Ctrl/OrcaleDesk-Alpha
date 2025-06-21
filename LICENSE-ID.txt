@@ -1,7 +1,7 @@
 PERJANJIAN LISENSI PERANGKAT LUNAK  
 ORCALEDESK: ALPHA  
 Versi 0.1 — Terakhir diperbarui: Juni 2025  
-Hak Cipta © 2025 Wilfredo Widjadmiko. Seluruh hak dilindungi undang-undang.
+Hak Cipta © 2025 Wilfredo.W . Seluruh hak dilindungi undang-undang.
 
 ─────────────────────────────────────────────
 
@@ -89,7 +89,7 @@ Segala sengketa akan diselesaikan di wilayah hukum Indonesia.
 
 Jika Anda tidak menyetujui ketentuan ini, mohon jangan menginstal atau menggunakan OrcaleDesk: Alpha.
 
-Untuk pertanyaan, izin tertulis, atau kerja sama, silakan hubungi:
+Untuk pertanyaan, izin tertulis, silakan hubungi:
 
 
 ─────────────────────────────────────────────
