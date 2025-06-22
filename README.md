@@ -7,11 +7,12 @@
 **OrcaleDesk** is a secure, school-oriented desktop application designed to assist staff, teachers, and administrative users in managing student and organizational data — with a strong focus on real-time interaction, security, and user role control.
 
 This is the **Alpha version**, made publicly available as an encrypted build-only release for early testing and feedback purposes.
-🚧 Alpha build will be released here within 2-4 days. Stay tuned.
+
 ---
 
 ## 🚀 About OrcaleDesk: Alpha
-
+- 🚧 *Alpha build will be released here within 2-4 days. Stay tuned.*
+  
 - 🔐 **Encrypted Build**  
   This release is pre-compiled and encrypted using [V8 Bytecode](https://v8.dev/blog/custom-startup-snapshots) to protect the internal logic and security architecture.
 
