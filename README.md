@@ -50,11 +50,21 @@ This Alpha build has been encrypted using V8 Bytecode to protect core protocol l
 
 ---
 
+## 📝 Design Note:
+The login interface in OrcaleDesk: Alpha was inspired by the original design concept developed collaboratively during the early Enchord project phase.
+While the current implementation has been completely rewritten using Vue.js, the UI structure and visual style remain similar to the original.
+I'am as the developer of this project acknowledge the visual concept origin as a shared creative effort among the Enchord planning contributors.
+
+--
+
 ## 📋 License
 
 This Alpha version is released under a **limited non-commercial evaluation license**. Please read the full terms in [`LICENSE_EN.txt`](./LICENSE-EN.txt)/[`LICENSE_ID.txt`](./LICENSE-ID.txt) before use.
 This software includes open-source packages under MIT, BSD, Apache 2.0, and Creative Commons licenses.  
 See [THIRD_PARTY_LICENSES.txt](./THIRD_PARTY_LICENSES.txt) for complete details.
+
+Some packages used in this application are licensed under non-standard terms such as Creative Commons Attribution 3.0 or custom licenses. All such packages are used in accordance with their respective terms, and attribution has been provided where required.
+For questions or concerns, please contact the developer.
 
 ---
 
