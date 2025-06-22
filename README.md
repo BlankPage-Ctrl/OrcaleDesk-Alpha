@@ -55,7 +55,7 @@ The login interface in OrcaleDesk: Alpha was inspired by the original design con
 While the current implementation has been completely rewritten using Vue.js, the UI structure and visual style remain similar to the original.
 I'am as the developer of this project acknowledge the visual concept origin as a shared creative effort among the Enchord planning contributors.
 
---
+---
 
 ## 📋 License
 
