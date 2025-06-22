@@ -55,6 +55,10 @@ This Alpha build has been encrypted using V8 Bytecode to protect core protocol l
 The login interface in OrcaleDesk: Alpha was inspired by the original design concept developed collaboratively during the early Enchord project phase.
 While the current implementation has been completely rewritten using Vue.js, the UI structure and visual style remain similar to the original.
 I'am as the developer of this project acknowledge the visual concept origin as a shared creative effort among the Enchord planning contributors.
+[Dhfn707](https://github.com/Dhfn707)
+[YNTKTS150907](https://github.com/YNTKTS150907)
+
+[Enchord](https://github.com/YNTKTS150907/Enchord)
 
 ---
 
