@@ -1,4 +1,8 @@
-# 🧠 OrcaleDesk: Alpha Edition
+ <p align="center">
+  <img src="config/enchord_logo_imp_transparant.png" alt="Enchord Oracle Logo" width="200"/>
+</p>
+
+<h1 align="center">OrcaleDesk: Alpha</h1>
 
 **OrcaleDesk** is a secure, school-oriented desktop application designed to assist staff, teachers, and administrative users in managing student and organizational data — with a strong focus on real-time interaction, security, and user role control.
 
