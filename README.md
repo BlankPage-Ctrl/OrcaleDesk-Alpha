@@ -33,11 +33,10 @@ Download the `.exe` installer from the [`/releases`](./releases) folder and run 
 
 ## 📁 Contents of This Repository
 
-- `OrcaleDesk-Alpha-Setup.exe` → Production-ready encrypted installer
-- `LICENSE.txt` → Alpha license agreement
+- `OrcaleDesk-Alpha-Setup.exe` → Installer-ready encrypted
+- `LICENSE-EN.txt` → Alpha license agreement
 - `release-notes.md` → Changelog and known limitations
 - `screenshots/` → UI previews and sample screens
-- `.github/ISSUE_TEMPLATE.md` → Template for submitting feedback and bug reports
 
 ---
 
@@ -54,6 +53,8 @@ This Alpha build has been encrypted using V8 Bytecode to protect core protocol l
 ## 📋 License
 
 This Alpha version is released under a **limited non-commercial evaluation license**. Please read the full terms in [`LICENSE_EN.txt`](./LICENSE-EN.txt)/[`LICENSE_ID.txt`](./LICENSE-ID.txt) before use.
+This software includes open-source packages under MIT, BSD, Apache 2.0, and Creative Commons licenses.  
+See [THIRD_PARTY_LICENSES.txt](./THIRD_PARTY_LICENSES.txt) for complete details.
 
 ---
 
